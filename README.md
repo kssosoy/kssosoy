@@ -31,6 +31,4 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kssosoy&count_private=true&hide=issues,stars&theme=graywhite)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qws1566)](https://solved.ac/qws1566/)
