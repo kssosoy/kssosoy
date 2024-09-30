@@ -25,6 +25,7 @@
 
 <br/>
 <hr>
+<h3>🚀 My Experience 🚀</h3>
 * (2024.09~) University Makeus Challenge (UMC) 7th 회장 및 Springboot 파트<br/>
 * (2024.03-2024.08) University Makeus Challenge 6th (UMC) Web 파트장<br/>
 * (2024.02~) 멋쟁이 사자처럼 12기 Back-end 운영진<br/>
