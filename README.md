@@ -35,4 +35,4 @@
 
 ## 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qws1566)](https://solved.ac/qws1566/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qws1566)](https://solved.ac/qws1566/) -->
