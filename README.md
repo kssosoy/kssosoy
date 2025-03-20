@@ -23,6 +23,15 @@
   <img src="https://skillicons.dev/icons?i=git,github,notion,figma" />
 </div>
 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/687903413394822973/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+
 <br/>
 <hr>
 <!-- <h3>🚀 My Experience 🚀</h3>
