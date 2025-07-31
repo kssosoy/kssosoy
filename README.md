@@ -23,14 +23,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,notion,figma" />
 </div>
 
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/687903413394822973/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qws1566)](https://solved.ac/qws1566/)
 
 <br/>
 <hr>
