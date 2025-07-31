@@ -1,12 +1,14 @@
 <div align="left">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkssosoy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br/>
 
- 
-## Hi there 👋
+# 👋 Hi there! 
 
- 
-<h3>🌱 I’m currently learning ...</h3>
+🌱 성능 최적화와 인프라 설계에 강점을 가진 백엔드 개발자입니다.  
+Spring Boot, Redis, CI/CD, AWS 환경에서 실전 프로젝트를 통해 서비스 품질을 개선한 경험이 있습니다.  
+사용자 중심의 개발과 문제 해결을 지향하며 꾸준히 성장하고 있습니다.
+
+---
+
+## 🚀 Tech Stack
 
 <div>
   <h4>Frontend</h4>
@@ -15,26 +17,34 @@
 
 <div>
   <h4>Backend</h4>
-<img src="https://skillicons.dev/icons?i=java,py,nodejs,spring,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,py,mysql,redis" />
+</div>
+
+<div>
+  <h4>DevOps & Infra</h4>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </div>
 
 <div>
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,figma,vscode,intellij" />
 </div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sehyeo&show_icons=true&theme=default" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=compact" />
+</div>
+
+---
+
+## 🧠 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qws1566)](https://solved.ac/qws1566/)
 
-<br/>
-<hr>
-<!-- <h3>🚀 My Experience 🚀</h3>
-* (2024.09~) University Makeus Challenge (UMC) 7th 회장 및 Springboot 파트<br/>
-* (2024.03-2024.08) University Makeus Challenge 6th (UMC) Web 파트장<br/>
-* (2024.02~) 멋쟁이 사자처럼 12기 Back-end 운영진<br/>
-* (2023.09-2024.02) University Makeus Challenge (UMC) 5th Node.js 파트원<br/>
-* (2023.03 - 2023.11) 한이음 해상물류 ICT 멘토링 우수상 <br/>
-* (2023.07 - 2023.08) 데이터 청년 캠퍼스 수료 <br/> -->
+---
 
-## 
-
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qws1566)](https://solved.ac/qws1566/) -->
+</div>
