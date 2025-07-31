@@ -36,7 +36,8 @@ Spring Boot, Redis, CI/CD, AWS 환경에서 실전 프로젝트를 통해 서비
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kssosoy&show_icons=true&theme=default" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssosoy&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kssosoy&layout=compact&include_forks=true
+" />
 </div>
 
 ---
